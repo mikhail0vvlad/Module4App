@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- "M4" text symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,72 L30,36 L42,36 L54,56 L66,36 L78,36 L78,72 L68,72 L68,52 L54,72 L40,52 L40,72 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,72 L82,60 L92,60 L92,50 L72,50 L72,60 L82,60 L82,48 L92,48 L92,72 Z" />
+</vector>
